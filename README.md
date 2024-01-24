@@ -1,7 +1,7 @@
 # React E-Commerce App
 
 Introduction
-This is a React project showcasing an e-commerce application that displays products retrieved from the Fake Store API. The application utilizes a variety of technologies, including React.js, Bootstrap, React Bootstrap, Font Awesome, React Spinner, React Router DOM, and Redux Toolkit for state management. <a href="https://your-deployment-link.com/">Preview the App</a>
+This is a React project showcasing an e-commerce application that displays products retrieved from the Fake Store API. The application utilizes a variety of technologies, including React.js, Bootstrap, React Bootstrap, Font Awesome, React Spinner, React Router DOM, and Redux Toolkit for state management. <a href="https://mustafa-sayed-m.github.io/React-E-commerce-App/">Preview the App</a>
 
 ## Features
 
