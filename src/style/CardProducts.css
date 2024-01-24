@@ -1,0 +1,37 @@
+/* Floating Button */
+.card_product .floating_btn {
+    top: -80px;
+    border-color: var(--move-color) !important;
+    background-color: var(--move-color) !important;
+}
+
+.card_product:hover .floating_btn {
+    top: 15px;
+}
+
+.card_product .floating_btn:hover {
+    backdrop-filter: blur(4px);
+    background-color: rgba(29, 0, 111, .6) !important;
+}
+
+/* Link Details */
+.card_product .link_details {
+    color: var(--white-color) !important;
+    background-color: var(--move-color);
+}
+
+.card_product .link_details:hover {
+    color: var(--move-color) !important;
+    background-color: var(--white-color);
+    border-color: var(--move-color) !important;
+}
+
+/* Global Transition */
+.card_product .floating_btn,
+.card_product .link_details {
+    transition: var(--transition) !important;
+    -webkit-transition: var(--transition) !important;
+    -moz-transition: var(--transition) !important;
+    -ms-transition: var(--transition) !important;
+    -o-transition: var(--transition) !important;
+}

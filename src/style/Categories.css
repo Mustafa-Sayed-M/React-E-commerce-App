@@ -1,0 +1,16 @@
+.categories button.category {
+    transition: var(--transition);
+    color: #000000 !important;
+    border-color: var(--move-color) !important;
+    background-color: transparent !important;
+    -webkit-transition: var(--transition);
+    -moz-transition: var(--transition);
+    -ms-transition: var(--transition);
+    -o-transition: var(--transition);
+}
+
+.categories button.category.active,
+.categories button.category:hover {
+    color: #ffffff !important;
+    background-color: var(--move-color) !important;
+}
