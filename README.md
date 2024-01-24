@@ -5,17 +5,17 @@ This is a React project showcasing an e-commerce application that displays produ
 
 ## Features
 
-⭕ Retrieve product data from the Fake Store API.
-⭕ Manage state and store product information using Redux Toolkit.
-⭕ Enhance UI design with React Bootstrap components.
-⭕ Incorporate Font Awesome for visually appealing icons.
-⭕ Display a loading spinner using React Spinner during data loading.
-⭕ Enable seamless navigation using React Router DOM.
+- ⭕ Retrieve product data from the Fake Store API.
+- ⭕ Manage state and store product information using Redux Toolkit.
+- ⭕ Enhance UI design with React Bootstrap components.
+- ⭕ Incorporate Font Awesome for visually appealing icons.
+- ⭕ Display a loading spinner using React Spinner during data loading.
+- ⭕ Enable seamless navigation using React Router DOM.
 
 ## Installation and Usage
 
-⭕ Install required packages using npm: $ npm install
-⭕ Run the application: $ npm start
+- ⭕ Install required packages using npm: $ npm install
+- ⭕ Run the application: $ npm start
 
 ## Configuration
 
@@ -23,11 +23,11 @@ The application requires a connection to the Fake Store API for product data. No
 
 ## Project Structure
 
-⭕ src/: Contains source files for the application.
-⭕ components/: Houses components used throughout the application.
-⭕ store/: Contains Redux Toolkit files for effective state management.
-⭕ services/: Services responsible for fetching data from the Fake Store API.
-⭕ public/: Holds public files such as index.html.
+- ⭕ src/: Contains source files for the application.
+- ⭕ components/: Houses components used throughout the application.
+- ⭕ store/: Contains Redux Toolkit files for effective state management.
+- ⭕ services/: Services responsible for fetching data from the Fake Store API.
+- ⭕ public/: Holds public files such as index.html.
 
 ## Overview
 
